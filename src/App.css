@@ -1,0 +1,22 @@
+body {
+    background-color: #8FCBD9;
+}
+
+.link-name{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.link-name:hover {
+    color: black;
+}
+
+.card{
+    background-color: #D7D9D9;
+}
+
+
+.abilities{
+    background-color: #6BB0BF;
+}
